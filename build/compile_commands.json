@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/xingyuanzu/Code/Program/MyCache/build",
+  "command": "/usr/bin/clang++  -I/Users/xingyuanzu/Code/Program/MyCache/lib -g -std=gnu++17 -arch arm64 -o CMakeFiles/main.dir/test_policy.cpp.o -c /Users/xingyuanzu/Code/Program/MyCache/test_policy.cpp",
+  "file": "/Users/xingyuanzu/Code/Program/MyCache/test_policy.cpp",
+  "output": "CMakeFiles/main.dir/test_policy.cpp.o"
+}
+]
