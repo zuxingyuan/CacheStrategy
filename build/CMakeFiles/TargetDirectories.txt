@@ -1,3 +1,0 @@
-/Users/xingyuanzu/Code/Program/MyCache/build/CMakeFiles/main.dir
-/Users/xingyuanzu/Code/Program/MyCache/build/CMakeFiles/edit_cache.dir
-/Users/xingyuanzu/Code/Program/MyCache/build/CMakeFiles/rebuild_cache.dir
